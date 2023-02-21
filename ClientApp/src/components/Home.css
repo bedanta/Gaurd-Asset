@@ -1,0 +1,42 @@
+.asset-item {
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  margin-bottom: 3px;
+  padding: 3px 20px;
+}
+
+.asset-list {
+  background: #e8e8e7;
+  border-radius: 4px;
+  max-width: 400px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.app {
+  height: 100vh;
+  padding: 30px;
+}
+
+.list-header {
+  align-items: center;
+  display: flex;
+  font-size: 16px;
+  justify-content: space-between;
+  padding: 0px 10px;
+  max-width: 400px;
+  margin-top: 3px;
+}
+
+.form-box {
+  margin-top: 40px;
+  display: flex;
+  font-size: 14px;
+  max-width: 400px;
+  padding: 10px 0px 10px 0px;
+  justify-content: space-between;
+}
